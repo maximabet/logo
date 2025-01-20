@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 106.08 106.32">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 106.08 106.32">
+  <title>Logo BIMI</title>
+  <desc>SVG logo format for BIMI compliance</desc>
   <path d="M53.04 0C82.31 0 106.08 23.77 106.08 53.04S82.31 106.08 53.04 106.08 0 82.31 0 53.04 23.77 0 53.04 0Z" fill="#29025a"/>
   <path d="M53.04 32.14a20.9 20.9 0 1 1-20.9 20.9 20.9 20.9 0 0 1 20.9-20.9Z" fill="#06fc86"/>
 </svg>
