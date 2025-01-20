@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg baseProfile="tiny" version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106.08 106.32">
-  <circle cx="53.04" cy="53.04" r="53.04" fill="#29025a"/>
-  <circle cx="53.04" cy="53.04" r="20.9" fill="#06fc86"/>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 106.08 106.32">
+  <path d="M53.04 0C82.31 0 106.08 23.77 106.08 53.04S82.31 106.08 53.04 106.08 0 82.31 0 53.04 23.77 0 53.04 0Z" fill="#29025a"/>
+  <path d="M53.04 32.14a20.9 20.9 0 1 1-20.9 20.9 20.9 20.9 0 0 1 20.9-20.9Z" fill="#06fc86"/>
 </svg>
